@@ -1,9 +1,8 @@
 # 📄 Invoice Finance IRR Simulator
 
-This is a simple but powerful Streamlit app to simulate and compare **IRR (Internal Rate of Return)** across multiple invoice financing scenarios. Ideal for those working in or learning about **trade finance**, **credit analysis**, or **risk modeling**.
-
+This is a simple Streamlit app to simulate and compare **IRR (Internal Rate of Return)** across multiple invoice financing scenarios.
 ---
-
+.
 ## 🔧 Features
 
 - 📥 Upload invoice data via CSV
